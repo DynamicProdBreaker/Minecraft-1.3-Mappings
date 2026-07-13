@@ -1,0 +1,670 @@
+tiny	2	0	official	intermediary
+	escaped-names
+c	z	net/minecraft/unmapped/C_60363264
+	m	(Lr;)Lnp;	d	m_03423467
+c	ai	net/minecraft/unmapped/C_03749167
+	m	()Ljava/lang/String;	a	m_27822537
+	m	(Ljava/lang/String;)Ljava/lang/Object;	a	m_24518233
+c	dh	net/minecraft/unmapped/C_72563760
+	m	()F	d	m_81444353
+	m	()F	f	m_58591005
+	m	()F	g	m_35410435
+	m	()F	h	m_83044847
+	m	()Z	i	m_87605945
+	m	()Z	j	m_98673883
+	f	F	a	f_34981302
+	f	F	b	f_68306678
+	f	Z	c	f_50120174
+	f	Z	d	f_72313288
+	f	F	e	f_97588066
+	f	F	f	f_91156843
+c	fi	net/minecraft/unmapped/C_68775612
+	m	()Z	a	m_08425423
+	m	(Lfc;)V	a	m_20700705
+	m	(Lfi;)Lfc;	a	m_41776761
+	m	()Ljavax/swing/JComponent;	b	m_84597349
+	m	()Ljavax/swing/JComponent;	c	m_14768130
+	m	()Ljavax/swing/JComponent;	d	m_54835577
+	f	Ljava/util/logging/Logger;	a	f_26089594
+	f	Z	b	f_44146665
+	f	Lfc;	c	f_54508791
+c	fj	net/minecraft/unmapped/C_02519014
+	f	Lfc;	a	f_66262917
+c	fk	net/minecraft/unmapped/C_59009041
+	f	Ljavax/swing/JTextField;	a	f_17501648
+	f	Lfi;	b	f_70176043
+c	fl	net/minecraft/unmapped/C_78250670
+	f	Lfi;	a	f_61544145
+c	fm	net/minecraft/unmapped/C_03068318
+	f	Lnet/minecraft/server/MinecraftServer;	a	f_35068232
+	f	I	b	f_07561015
+c	fn	net/minecraft/unmapped/C_57165061
+	m	()V	a	m_78217179
+	m	(Lfn;)V	a	m_41140136
+	m	([J)D	a	m_52176948
+	f	Ljava/text/DecimalFormat;	a	f_26934194
+	f	[I	b	f_38288216
+	f	I	c	f_70416132
+	f	[Ljava/lang/String;	d	f_62480509
+	f	Lnet/minecraft/server/MinecraftServer;	e	f_03943731
+c	fo	net/minecraft/unmapped/C_94457548
+	f	Lfn;	a	f_52821133
+c	fp	net/minecraft/unmapped/C_59625208
+	f	Ljava/util/logging/Formatter;	a	f_13612335
+	f	[I	b	f_62140838
+	f	I	c	f_83820941
+	f	Ljavax/swing/JTextArea;	d	f_61759702
+c	fq	net/minecraft/unmapped/C_42279890
+	f	Lfp;	a	f_00154204
+c	gr	net/minecraft/unmapped/C_69033196
+	m	(Ljava/lang/String;)Z	a	m_68976890
+	f	Ljava/util/List;	a	f_06044445
+	f	Lgq;	b	f_62038348
+c	hn	net/minecraft/unmapped/C_17832327
+	m	([Ljava/lang/String;)V	a	m_85835107
+c	hs	net/minecraft/unmapped/C_65210189
+	m	()I	a	m_55099552
+	m	(Lhs;)I	a	compareTo
+	f	D	a	f_36275141
+	f	J	b	f_43743031
+	f	Ljava/lang/String;	c	f_82914724
+c	hw	net/minecraft/unmapped/C_53927220
+	m	([BI[BII)I	a	m_21665642
+	m	([BI[BII)I	b	m_65410180
+c	id	net/minecraft/unmapped/C_05649781
+	m	()V	a	m_31105666
+	m	(Ljava/lang/String;)V	a	m_48534851
+	m	([Ljava/lang/String;)V	a	m_17247777
+	m	()V	b	m_42140681
+	f	Lty;	a	f_02827972
+	f	Ljava/io/File;	b	f_02878113
+	f	Ladp;	c	f_28455065
+c	ie	net/minecraft/unmapped/C_39302208
+	f	Lid;	a	f_78678204
+c	ii	net/minecraft/unmapped/C_88948653
+c	iv	net/minecraft/unmapped/C_99723877
+	f	Liw;	a	f_74113759
+	f	I	b	f_48070840
+c	iz	net/minecraft/unmapped/C_77764171
+c	jc	net/minecraft/unmapped/C_31561669
+	m	(Liw;F)Ljc;	a	m_75225272
+	f	D	a	f_67281099
+	f	D	b	f_53635880
+	f	D	c	f_73990550
+	f	F	d	f_84117521
+	f	F	e	f_94656928
+	f	Z	f	f_15443873
+	f	Z	g	f_76457530
+c	jp	net/minecraft/unmapped/C_12030530
+c	mn	net/minecraft/unmapped/C_73288143
+c	oc	net/minecraft/unmapped/C_71028558
+c	ot	net/minecraft/unmapped/C_12983084
+	m	(S)V	a	m_74303829
+	m	(S)V	b	m_96153340
+	m	(S)V	c	m_12323091
+	f	Ljava/util/Map;	a	f_21450156
+	f	Lno;	b	f_47916729
+	f	Loe;	c	f_04934394
+c	pe	net/minecraft/unmapped/C_34772479
+	f	Lahp;	a	f_34086060
+c	ro	net/minecraft/unmapped/C_82481448
+c	sb	net/minecraft/unmapped/C_83266930
+	m	()I	a	m_78157706
+	m	(I)V	a	m_31020023
+	m	(Lsb;)[Z	a	m_64390323
+	m	(Lsb;I)V	a	m_89658146
+	m	(Lsf;III)Ljava/util/LinkedList;	a	m_21446791
+	m	([Ljava/lang/String;)V	a	m_30480020
+	m	()V	b	m_41174155
+	m	(I)Ljava/util/List;	b	m_70638848
+	m	(Lsb;)V	b	m_41482108
+	m	(Lsb;I)Ljava/util/List;	b	m_33115493
+	m	(I)Ljava/util/List;	c	m_61844353
+	m	(Lsb;)I	c	m_87511816
+	m	(I)V	d	m_57102894
+	f	[Z	a	f_32927878
+	f	[Ljavax/swing/JButton;	b	f_55525810
+	f	Ljavax/swing/JLabel;	c	f_79387426
+	f	Ljavax/swing/JLabel;	d	f_37498151
+	f	[Ljavax/swing/JLabel;	e	f_35993450
+	f	Ljavax/swing/JPanel;	f	f_26146988
+	f	Ljava/util/HashMap;	g	f_89976410
+	f	Ljava/util/HashMap;	h	f_51481721
+	f	Ljava/util/HashMap;	i	f_22760637
+	f	Ljava/util/List;	j	f_06665126
+c	sc	net/minecraft/unmapped/C_35486436
+	f	I	a	f_65090542
+	f	Lsb;	b	f_18996210
+c	sd	net/minecraft/unmapped/C_00802905
+	f	Lsf;	a	f_34418872
+	f	Lsb;	b	f_36245788
+c	se	net/minecraft/unmapped/C_98031973
+	f	Lsb;	a	f_82776702
+c	sf	net/minecraft/unmapped/C_39660654
+	m	()Ljava/lang/String;	a	m_65204273
+	m	(I)I	a	m_15323062
+	m	()Z	b	m_37793217
+	f	Ljava/lang/String;	a	f_28665704
+	f	Ljava/lang/String;	b	f_28390915
+	f	Z	c	f_62256294
+c	sg	net/minecraft/unmapped/C_06689301
+	f	Lsb;	a	f_87758660
+c	tu	net/minecraft/unmapped/C_17490068
+	f	I	a	f_87675979
+	f	I	b	f_57137358
+	f	I	c	f_78006367
+c	uc	net/minecraft/unmapped/C_80103358
+	m	()V	a	m_34216651
+	f	Lty;	a	f_79163470
+	f	I	b	f_01207506
+	f	I	c	f_79810232
+	f	I	d	f_51604062
+	f	I	e	f_43794311
+	f	Z	f	f_00455793
+	f	I	g	f_05809386
+c	uf	net/minecraft/unmapped/C_53308759
+	f	Ljava/util/Set;	a	f_44375215
+c	vj	net/minecraft/unmapped/C_63423906
+c	vq	net/minecraft/unmapped/C_86814180
+c	vx	net/minecraft/unmapped/C_68750166
+	m	(II)Lvu;	b	m_57660118
+	f	[Lvu;	a	f_57069878
+	f	Lty;	b	f_22766506
+	f	Lvz;	c	f_07431412
+c	vy	net/minecraft/unmapped/C_53170019
+	m	()Lvr;	a	m_20429051
+	m	(Lvu;)V	a	m_82347531
+	m	(II)V	b	m_10057571
+	m	(Lvu;)V	b	m_66864192
+	m	(II)Lvu;	e	m_20779225
+	f	Ljava/util/Set;	a	f_56149052
+	f	Lvu;	b	f_61190581
+	f	Lvr;	c	f_77954544
+	f	Lvz;	d	f_31423577
+	f	Lho;	e	f_06267254
+	f	Ljava/util/List;	f	f_23444154
+	f	Lty;	g	f_33128815
+	f	I	h	f_64269229
+c	wa	net/minecraft/unmapped/C_37738790
+	f	Lvz;	a	f_85382577
+	f	J	b	f_13053968
+	f	J	c	f_65312308
+	f	J	d	f_83429355
+	f	J	e	f_31970429
+	f	I	f	f_43658007
+c	wb	net/minecraft/unmapped/C_51555186
+c	wj	net/minecraft/unmapped/C_47227918
+	m	(Ltt;Lan;)V	a	m_57159876
+	m	(Lty;IILan;)Lvu;	a	m_38787929
+	m	(Lwk;)V	a	m_63493691
+	f	Ljava/util/List;	a	f_06354947
+	f	Ljava/util/Set;	b	f_33892780
+	f	Ljava/lang/Object;	c	f_45510851
+	f	Ljava/io/File;	d	f_80576070
+c	wk	net/minecraft/unmapped/C_39100889
+	f	Ltt;	a	f_47970506
+	f	Lan;	b	f_96133742
+c	wq	net/minecraft/unmapped/C_37405033
+	m	(II[BDDD)V	a	m_20922790
+	m	(II[BDDDFFFIID)V	a	m_45931835
+c	wy	net/minecraft/unmapped/C_67612442
+c	xd	net/minecraft/unmapped/C_72467638
+c	xn	net/minecraft/unmapped/C_49215187
+c	yf	net/minecraft/unmapped/C_53796298
+	m	(Lty;[BIIIIIIB)V	a	m_55175219
+	m	(Lty;[BIIIIIIBB)V	a	m_48326170
+	m	(Lty;[BIIIIIIIIB)V	a	m_85070237
+	m	(Lty;[BIIIIIIBB)V	b	m_91948849
+c	zk	net/minecraft/unmapped/C_56435444
+c	abk	net/minecraft/unmapped/C_96709389
+	f	Labt;	a	f_39545074
+	f	Labt;	b	f_76139073
+c	abl	net/minecraft/unmapped/C_76388211
+	f	Labt;	a	f_94235480
+c	abm	net/minecraft/unmapped/C_22089017
+	m	([DDDDIIIDDD)[D	a	m_15064183
+	f	[[B	a	f_87723993
+	f	I	b	f_84321830
+c	abp	net/minecraft/unmapped/C_99189076
+	m	(DDD)D	a	m_52266308
+	m	([DDDDIIIDDD)[D	a	m_81417798
+	m	([DDDIIDDD)[D	a	m_91184312
+	m	([DDDIIDDDD)[D	a	m_74213684
+	f	[Labs;	a	f_69028372
+	f	I	b	f_53600899
+c	abq	net/minecraft/unmapped/C_89210847
+	f	Labt;	a	f_89626304
+	f	D	b	f_36522819
+	f	D	c	f_74435894
+c	abr	net/minecraft/unmapped/C_19019180
+	f	Labt;	a	f_45214208
+	f	D	b	f_28845764
+	f	D	c	f_54139366
+c	abs	net/minecraft/unmapped/C_73835358
+	m	(D)I	a	m_55836692
+	m	(DD)D	a	m_50344743
+	m	(DDD)D	a	m_23096495
+	m	([DDDDIIIDDDD)V	a	m_05065339
+	m	([DDDIIDDD)V	a	m_29010801
+	m	([IDD)D	a	m_73202470
+	m	([IDDD)D	a	m_78763730
+	f	D	a	f_81262427
+	f	D	b	f_19653376
+	f	D	c	f_63184251
+	f	D	d	f_24081281
+	f	[[I	e	f_01246066
+	f	[I	f	f_77970370
+	f	D	g	f_88214965
+	f	D	h	f_25424955
+c	acf	net/minecraft/unmapped/C_33168173
+c	acg	net/minecraft/unmapped/C_10831577
+	f	Lacl;	b	f_41150133
+	f	I	c	f_70587472
+c	ach	net/minecraft/unmapped/C_90604089
+	f	I	b	f_43828085
+c	acs	net/minecraft/unmapped/C_06903435
+	m	(JLacl;I)Lacl;	a	m_51320694
+c	acu	net/minecraft/unmapped/C_97944967
+c	acv	net/minecraft/unmapped/C_06560188
+	f	Lacl;	b	f_05024851
+	f	I	c	f_06164679
+c	ado	net/minecraft/unmapped/C_66344225
+	f	Ladn;	a	f_15807626
+c	adr	net/minecraft/unmapped/C_49995322
+c	ads	net/minecraft/unmapped/C_70833690
+	m	(Ljava/io/File;)J	a	m_52075703
+	m	(Ljava/io/File;Ljava/util/List;IILhv;)V	a	m_33801957
+	m	(Ljava/io/File;Ljava/util/List;Ljava/util/List;)V	a	m_28927006
+	m	(Ljava/util/List;IILhv;)V	a	m_69980659
+	m	()I	c	m_20277667
+c	adt	net/minecraft/unmapped/C_52015520
+c	adu	net/minecraft/unmapped/C_59539078
+	m	()Ljava/io/File;	a	m_73201605
+	m	(Ladu;)I	a	compareTo
+	m	()I	b	m_31786329
+	m	()I	c	m_77157787
+	f	Ljava/io/File;	a	f_07774313
+	f	I	b	f_74423435
+	f	I	c	f_50649346
+c	adv	net/minecraft/unmapped/C_80909786
+	f	Ljava/util/regex/Pattern;	a	f_65261091
+c	adw	net/minecraft/unmapped/C_68069484
+	f	Ljava/util/regex/Pattern;	a	f_66312695
+c	adx	net/minecraft/unmapped/C_16691321
+c	ady	net/minecraft/unmapped/C_43411720
+c	aee	net/minecraft/unmapped/C_37569470
+c	aer	net/minecraft/unmapped/C_44731076
+c	afu	net/minecraft/unmapped/C_22945277
+c	ahf	net/minecraft/unmapped/C_18401661
+	f	I	a	f_86680322
+c	ajp	net/minecraft/unmapped/C_59146378
+	f	Ljava/lang/Throwable;	a	f_14742378
+c	ajr	net/minecraft/unmapped/C_62562589
+c	anf	net/minecraft/unmapped/C_88314225
+	f	I	a	f_95071804
+c	apb	net/minecraft/unmapped/C_75040483
+	m	(II)V	a	m_86750236
+	m	(Lapb;)I	a	m_35624574
+	m	(Lapb;I)I	a	m_33596272
+	m	([Ljava/lang/String;)V	a	m_12872133
+	m	(Lapb;)I	b	m_76580364
+	m	(Lapb;I)I	b	m_14048167
+	m	(Lapb;)I	c	m_31204361
+	f	I	a	f_07438733
+	f	I	b	f_65025822
+	f	Ljava/lang/String;	c	f_04329817
+	f	Ljava/awt/image/BufferedImage;	d	f_69220487
+	f	[I	e	f_57967039
+	f	I	f	f_73310756
+	f	I	g	f_75170108
+	f	I	h	f_03171963
+	f	I	i	f_35066749
+	f	I	j	f_42996037
+c	apc	net/minecraft/unmapped/C_39915148
+	f	Lapb;	a	f_66770933
+c	apd	net/minecraft/unmapped/C_48405372
+	f	Lapb;	a	f_64028476
+c	ape	net/minecraft/unmapped/C_59923004
+	f	Lapb;	a	f_28117287
+c	aqo	net/minecraft/unmapped/C_07172520
+	m	(Laqo;)Ljava/util/List;	a	m_94968093
+	m	(Laqo;Laqq;II)Z	a	m_33397726
+	m	(Laqq;II)Z	a	m_84838301
+	m	(Laqs;Ljava/util/List;)V	a	m_90789035
+	m	(Ljava/util/List;)V	a	m_24153720
+	m	([Ljava/lang/String;)V	a	m_75729754
+	f	Ljava/util/List;	a	f_29296199
+c	aqp	net/minecraft/unmapped/C_26319736
+	m	(Laqn;Laqn;)I	a	compare
+	f	Laqo;	a	f_55116761
+c	aqq	net/minecraft/unmapped/C_54856221
+	m	(II)V	a	m_60187094
+	m	(Laqq;II)Z	a	m_88700692
+	m	(Ljava/awt/Graphics;)V	a	m_31202765
+	f	I	a	f_34663928
+	f	I	b	f_93465954
+	f	I	c	f_23880717
+	f	I	d	f_17015769
+	f	Laqo;	e	f_74290771
+c	aqr	net/minecraft/unmapped/C_24765942
+	m	(II)Z	a	m_00370045
+	m	(Ljava/awt/Graphics;)V	a	m_34498529
+	m	(II)V	b	m_26238254
+	f	I	a	f_44165936
+	f	I	b	f_15025474
+	f	[Laqq;	c	f_53861222
+	f	Ljava/lang/String;	d	f_83322193
+	f	I	e	f_91552479
+	f	I	f	f_39745320
+	f	Laqn;	g	f_95006286
+	f	Laqo;	h	f_48780613
+c	atg	net/minecraft/unmapped/C_04204537
+c	atl	net/minecraft/unmapped/C_29991160
+	m	(DDD)D	b	m_40373119
+	f	[Latm;	a	f_91481581
+	f	D	b	f_17188833
+	f	D	c	f_62194472
+	f	D	d	f_99020309
+c	atm	net/minecraft/unmapped/C_81732632
+	m	(DDDD)Z	a	m_85234474
+	m	(DDDDDD)Z	a	m_65160015
+	m	(DDDDDD)Z	b	m_28317398
+	f	D	a	f_58298216
+	f	D	b	f_09922285
+	f	D	c	f_29680404
+	f	D	d	f_44231934
+	f	D	e	f_40678881
+	f	D	f	f_35625511
+	f	D	g	f_64130012
+c	avy	net/minecraft/unmapped/C_13319979
+c	aww	net/minecraft/unmapped/C_45318399
+	f	Ljava/util/Map;	a	f_18711852
+	f	Ljava/util/Map;	b	f_61891200
+	f	Lawt;	c	f_72959399
+c	net/minecraft/client/c	net/minecraft/client/C_61887317
+c	net/minecraft/client/g	net/minecraft/client/C_04459890
+c	net/minecraft/server/d	net/minecraft/server/C_88002138
+	m	(Ljava/lang/String;)V	a	m_93753300
+	m	(Ljava/lang/String;)V	b	m_25727303
+	m	()Ljava/lang/String;	c	m_17739557
+c	net/minecraft/server/h	net/minecraft/server/C_54297108
+	f	Lfc;	a	f_44496937
+c	net/minecraft/client/Minecraft	net/minecraft/client/Minecraft
+	m	()Z	A	m_16222516
+	m	()Z	B	m_10057689
+	m	()Lavu;	C	m_37046522
+	m	()V	D	m_41957269
+	m	()Lik;	E	m_18668244
+	m	()J	F	m_55160953
+	m	()Z	G	m_57789599
+	m	()V	H	m_10596829
+	m	()V	I	m_13054060
+	m	()V	J	m_97212553
+	m	()V	K	m_06127714
+	m	()V	L	m_43424424
+	m	()V	M	m_20685309
+	m	()V	a	m_81815981
+	m	(I)V	a	m_31184535
+	m	(II)V	a	m_60801884
+	m	(IIIIII)V	a	m_04086442
+	m	(IZ)V	a	m_77225877
+	m	(J)V	a	m_73257557
+	m	(La;)V	a	m_90231421
+	m	(Lanm;)V	a	m_52715402
+	m	(Larc;)V	a	m_85741928
+	m	(Larc;Ljava/lang/String;)V	a	m_49232044
+	m	(Larj;)V	a	m_23936764
+	m	(Ljava/io/File;II)Ljava/lang/String;	a	m_71443002
+	m	(Ljava/io/File;IIII)Ljava/lang/String;	a	m_13195880
+	m	(Ljava/lang/String;)Ljava/io/File;	a	m_45896068
+	m	(Ljava/lang/String;I)V	a	m_83493923
+	m	(Ljava/lang/String;Ljava/io/File;)V	a	m_95334694
+	m	(Ljava/lang/String;Ljava/lang/String;Lug;)V	a	m_16362034
+	m	(Z)V	a	m_91863470
+	m	()Ljava/io/File;	b	m_06605904
+	m	(I)V	b	m_62897076
+	m	(La;)V	b	m_78064500
+	m	(Ljava/lang/String;)V	b	m_94952706
+	m	()Lnet/minecraft/client/w;	c	m_46125407
+	m	(I)V	c	m_61857590
+	m	(La;)V	c	m_49334482
+	m	(Ljava/lang/String;)Z	c	m_20238212
+	m	()Ladp;	d	m_98129977
+	m	(La;)La;	d	m_82863806
+	m	(Ljava/lang/String;)V	d	m_76716821
+	m	()V	e	m_42765535
+	m	()V	f	m_30345392
+	m	()V	g	m_12353564
+	m	()V	h	m_57091929
+	m	()V	i	m_24050938
+	m	()V	j	m_57085983
+	m	()V	k	m_87006267
+	m	()V	l	m_67975642
+	m	()Ljava/lang/String;	m	m_86695868
+	m	()Ljava/lang/String;	n	m_94228601
+	m	()Ljava/lang/String;	o	m_86790624
+	m	()Ljava/lang/String;	p	m_74473474
+	m	()Z	q	m_12071159
+	m	()Laqu;	r	m_55181026
+	m	()Z	s	m_28306370
+	m	()Z	t	m_14282231
+	m	()Z	u	m_85834129
+	m	()Z	v	m_13686334
+	m	()Z	w	m_65179471
+	m	()Lnet/minecraft/client/Minecraft;	x	m_20213497
+	m	()V	y	m_96944929
+	m	()Larj;	z	m_18958174
+	f	Lawp;	A	f_52467463
+	f	Lnet/minecraft/client/z;	B	f_50256989
+	f	Lawi;	C	f_20964140
+	f	Ljava/io/File;	D	f_25803373
+	f	Laws;	E	f_25215102
+	f	Z	F	f_41606137
+	f	Z	G	f_92501186
+	f	J	H	f_16905843
+	f	Lht;	I	f_40149437
+	f	Z	J	f_07565246
+	f	Ljava/lang/String;	K	f_97146310
+	f	J	L	f_36191667
+	f	I	M	f_65682032
+	f	J	N	f_86013061
+	f	Larj;	O	f_32571834
+	f	Lnet/minecraft/client/Minecraft;	P	f_33079084
+	f	Z	Q	f_96101654
+	f	Z	R	f_17185879
+	f	La;	S	f_59189417
+	f	Lnet/minecraft/client/ah;	T	f_45385386
+	f	Lik;	U	f_36071453
+	f	Lnet/minecraft/client/a;	V	f_86515636
+	f	I	W	f_12143847
+	f	I	X	f_34177036
+	f	I	Y	f_35066023
+	f	Lavu;	Z	f_54883745
+	f	[B	a	f_27509279
+	f	Ladp;	aa	f_84858680
+	f	I	ab	f_78126936
+	f	I	ac	f_98934656
+	f	Z	ad	f_02314736
+	f	Ljava/lang/String;	ae	f_39021232
+	f	I	af	f_11848316
+	f	Lavj;	ag	f_06084782
+	f	Lavg;	ah	f_32192237
+	f	I	ai	f_34691537
+	f	Z	aj	f_15893740
+	f	Laz;	ak	f_49692220
+	f	Z	al	f_39788845
+	f	Ljava/io/File;	am	f_41960792
+	f	Ljava/lang/String;	an	f_44829365
+	f	Larb;	b	f_17639899
+	f	I	c	f_31800787
+	f	I	d	f_74192110
+	f	Larc;	e	f_26407825
+	f	Lata;	f	f_48619021
+	f	Larf;	g	f_28396371
+	f	Ljf;	h	f_63700667
+	f	Lasa;	i	f_49464910
+	f	Lnet/minecraft/client/ai;	j	f_69329575
+	f	Ljava/lang/String;	k	f_56220406
+	f	Ljava/awt/Canvas;	l	f_22385894
+	f	Z	m	f_58820764
+	f	Z	n	f_91843158
+	f	Late;	o	f_45465196
+	f	Lamu;	p	f_21497584
+	f	Lamu;	q	f_77337277
+	f	Lanm;	r	f_70816363
+	f	Lnet/minecraft/client/ae;	s	f_06595342
+	f	Lasv;	t	f_19113424
+	f	Lanx;	u	f_62768796
+	f	Lamv;	v	f_28235293
+	f	Z	w	f_96786561
+	f	Laiz;	x	f_81460813
+	f	Lnet/minecraft/client/ab;	y	f_58088711
+	f	Lnet/minecraft/client/MinecraftApplet;	z	f_57631529
+c	net/minecraft/client/MinecraftApplet	net/minecraft/client/MinecraftApplet
+	m	()V	a	m_55287411
+	m	()V	b	m_91050225
+	m	()V	c	m_39751418
+	f	Ljava/awt/Canvas;	a	f_63381888
+	f	Lnet/minecraft/client/Minecraft;	b	f_79310914
+	f	Ljava/lang/Thread;	c	f_79759872
+c	net/minecraft/server/MinecraftServer	net/minecraft/server/MinecraftServer
+	m	()Ljava/lang/String;	A	m_95361700
+	m	()Z	B	m_07042954
+	m	()Lnet/minecraft/server/MinecraftServer;	C	m_45643387
+	m	()Lq;	D	m_27636421
+	m	()Ljava/security/KeyPair;	E	m_13526447
+	m	()I	F	m_49387054
+	m	()Ljava/lang/String;	G	m_40564110
+	m	()Z	H	m_96135820
+	m	()Ljava/lang/String;	I	m_70179823
+	m	()Ljava/lang/String;	J	m_65157856
+	m	()Z	K	m_75619361
+	m	()Z	L	m_31649936
+	m	()Ladp;	M	m_26481925
+	m	()Z	N	m_75447388
+	m	()V	O	m_87490206
+	m	()Ljava/lang/String;	P	m_90001259
+	m	()I	R	m_77410000
+	m	()Z	S	m_45654766
+	m	()Z	T	m_43730352
+	m	()Z	U	m_23295051
+	m	()Z	V	m_04235001
+	m	()Z	W	m_98137561
+	m	()Z	X	m_46519856
+	m	()Ljava/lang/String;	Y	m_32365272
+	m	()I	Z	m_91931638
+	m	(I)Lga;	a	m_54705229
+	m	(La;)V	a	m_13726982
+	m	(Ljava/lang/String;Ljava/lang/String;JLuj;)V	a	m_93447105
+	m	(Ljava/security/KeyPair;)V	a	m_83959657
+	m	(Lnet/minecraft/server/MinecraftServer;)Lnet/minecraft/server/m;	a	m_96337289
+	m	(Lnet/minecraft/server/m;)V	a	m_49644895
+	m	(Lnet/minecraft/server/p;)V	a	m_24899969
+	m	(Lr;Ljava/lang/String;)Ljava/util/List;	a	m_58065088
+	m	(Luh;)V	a	m_64408846
+	m	(Luh;Z)Ljava/lang/String;	a	m_40980978
+	m	(Z)V	a	m_77839607
+	m	(Ljava/lang/String;I)V	a_	m_06296677
+	m	()Z	aa	m_22559215
+	m	()Lnet/minecraft/server/m;	ab	m_49852985
+	m	()Lgj;	ac	m_87745967
+	m	()Z	ad	m_71775254
+	m	()Z	ae	m_71745380
+	m	()I	af	m_84943086
+	m	()V	ag	m_31639143
+	m	()Z	b	m_25762730
+	m	(I)V	b	m_73823348
+	m	(La;)La;	b	m_81838115
+	m	(Z)V	b	m_57826293
+	m	()Ljava/lang/String;	b_	m_26522726
+	m	(I)V	c	m_92698909
+	m	(Ljava/lang/String;)V	c	m_73674847
+	m	(Z)V	c	m_62169929
+	m	()V	d	m_93101900
+	m	(I)V	d	m_16549731
+	m	(Ljava/lang/String;)V	d	m_45621611
+	m	(Z)V	d	m_38183345
+	m	()Z	e	m_09475318
+	m	(Ljava/lang/String;)V	e	m_07444604
+	m	(Z)V	e	m_21684211
+	m	()Luh;	f	m_38420057
+	m	(Ljava/lang/String;)Ljava/io/File;	f	m_20184875
+	m	(Z)V	f	m_19468027
+	m	()I	g	m_14761339
+	m	(Ljava/lang/String;)V	g	m_07045980
+	m	(Z)V	g	m_55565577
+	m	()Z	h	m_65878369
+	m	(Ljava/lang/String;)V	h	m_41760213
+	m	(Z)V	h	m_76321350
+	m	()V	i	m_84647327
+	m	(Ljava/lang/String;)Ljava/lang/String;	i	m_43805258
+	m	()V	j	m_01785488
+	m	(Ljava/lang/String;)V	j	m_86400183
+	m	()Ljava/lang/String;	k	m_68944603
+	m	(Ljava/lang/String;)V	k	m_58626664
+	m	()Z	l	m_12535660
+	m	(Ljava/lang/String;)V	l	m_91471830
+	m	()V	m	m_68213073
+	m	(Ljava/lang/String;)V	m	m_15068325
+	m	()Ljava/io/File;	n	m_85252325
+	m	(Ljava/lang/String;)V	n	m_16738208
+	m	()V	o	m_69649500
+	m	(Ljava/lang/String;)V	o	m_37093010
+	m	()V	p	m_53360126
+	m	(Ljava/lang/String;)V	p	m_02968104
+	m	()V	q	m_81284093
+	m	()Z	r	m_44062161
+	m	()V	s	m_97993012
+	m	()Ljava/lang/String;	t	m_49287364
+	m	()I	u	m_03873522
+	m	()Ljava/lang/String;	v	m_65020692
+	m	()Ljava/lang/String;	w	m_66799959
+	m	()I	x	m_88523111
+	m	()I	y	m_27293470
+	m	()[Ljava/lang/String;	z	m_26342342
+	f	Z	A	f_96266090
+	f	Z	B	f_36343076
+	f	Ljava/lang/String;	C	f_51545159
+	f	I	D	f_12648096
+	f	J	E	f_92671290
+	f	J	F	f_00521368
+	f	J	G	f_89740505
+	f	J	H	f_24183477
+	f	Ljava/security/KeyPair;	I	f_02512674
+	f	Ljava/lang/String;	J	f_03953195
+	f	Ljava/lang/String;	K	f_72078420
+	f	Ljava/lang/String;	L	f_99410319
+	f	Z	M	f_21888718
+	f	Z	N	f_11418660
+	f	Z	O	f_52123689
+	f	Ljava/lang/String;	P	f_16104899
+	f	Z	Q	f_93324251
+	f	J	R	f_44390060
+	f	Ljava/lang/String;	S	f_16875304
+	f	Z	T	f_44684564
+	f	Ljava/util/logging/Logger;	a	f_56424970
+	f	Lht;	b	f_64796676
+	f	[Lga;	c	f_58488472
+	f	Ljava/lang/String;	d	f_86889105
+	f	I	e	f_58756551
+	f	[J	f	f_63244188
+	f	[J	g	f_97515258
+	f	[J	h	f_62119635
+	f	[J	i	f_17128640
+	f	[J	j	f_25885353
+	f	[[J	k	f_97328155
+	f	Lnet/minecraft/server/MinecraftServer;	l	f_88189815
+	f	Ladp;	m	f_36761735
+	f	Lik;	n	f_98378181
+	f	Ljava/io/File;	o	f_09759227
+	f	Ljava/util/List;	p	f_08641489
+	f	Lq;	q	f_64434672
+	f	Ljava/lang/String;	r	f_91999448
+	f	I	s	f_84704653
+	f	Lnet/minecraft/server/m;	t	f_65897993
+	f	Z	u	f_62554889
+	f	Z	v	f_70592900
+	f	I	w	f_57608612
+	f	Z	x	f_28577763
+	f	Z	y	f_82963087
+	f	Z	z	f_35631178
